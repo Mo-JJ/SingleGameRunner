@@ -1,4 +1,4 @@
-# SingletonTask (Java)
+# SingleGameRunner (Java)
 
 This Java application helps manage a gaming console runner, allowing consoles to have only one runner component that manages single-game at a time functionality.
 ## Motivation
