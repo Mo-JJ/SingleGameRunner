@@ -1,10 +1,9 @@
 # SingletonTask (Java)
 
 This Java application helps manage a gaming console runner, allowing consoles to have only one runner component that manages single-game at a time functionality.
-
 ## Motivation
 
-If you've ever played with gaming consoles like PlayStation or Xbox, you'll notice that they only allow one game to run at a time. To mirror this single-game constraint, the `GameRunner` class was designed using the Singleton design pattern, ensuring only one game can be managed and run at any given moment. This approach prevents the complexity and difficulty of managing multiple game runners simultaneously, aligning with the design of real-life gaming consoles that also have only one game runner.
+If you've ever played with gaming consoles like PlayStation or Xbox, you'll notice that they only allow one game to run at a time. To mirror this single-game constraint, the `GameRunner` class was designed using the Singleton design pattern, ensuring only one game can be managed and run at any given moment. This approach prevents the complexity and difficulty of managing multiple game runners simultaneously, aligning with the design of real-life gaming consoles that also have only one game runner. For a better understanding of the benefit of this design, take a look at `flow_charts.pdf` file
 
 ## Key Features for Users
 
